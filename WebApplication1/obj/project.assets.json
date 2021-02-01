@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\STUDY\\QandA\\backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\STUDY\\QandA\\backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\STUDY\\QandA\\backend\\WebApplication1\\WebApplication1\\QandA.Backend.csproj",
+      "projectName": "QandA.Backend",
+      "projectPath": "C:\\STUDY\\QandA\\backend\\WebApplication1\\WebApplication1\\QandA.Backend.csproj",
       "packagesPath": "C:\\Users\\dream\\.nuget\\packages\\",
       "outputPath": "C:\\STUDY\\QandA\\backend\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
